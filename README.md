@@ -1,7 +1,8 @@
 ### Hi there 👋
+<img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="200vw" />
 
-My self **Vishal Jattan** i am currently studying in b.tech computer science at [Punjabi University](https://punjabiuniversity.ac.in/). ![computer](https://raw.githubusercontent.com/deut-erium/deut-erium/master/assets/computer.gif)
 
+My self **Vishal Jattan** i am currently studying in b.tech computer science at [Punjabi University](https://punjabiuniversity.ac.in/). 
 
 
 - 🔭 I’m currently working on my [website](vishaljattan.github.io)
