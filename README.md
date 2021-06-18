@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+My self **Vishal Jattan** i am currently studying in b.tech computer science at [Punjabi University](https://punjabiuniversity.ac.in/).
+
+
 
 - 🔭 I’m currently working on my [website](vishaljattan.github.io)
                                                           
