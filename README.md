@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My self **Vishal Jattan** i am currently studying in b.tech computer science at [Punjabi University](https://punjabiuniversity.ac.in/).
+My self **Vishal Jattan** i am currently studying in b.tech computer science at [Punjabi University](https://punjabiuniversity.ac.in/). ![computer](https://raw.githubusercontent.com/deut-erium/deut-erium/master/assets/computer.gif)
 
 
 
