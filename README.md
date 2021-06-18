@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my [website]  (vishaljattan.github.io)
-                                                                     ![computer image](https://freepngimg.com/thumb/computer_pc/8-2-computer-pc-png-images.png)
+                                                          
 - 🌱 I’m currently learning Cyber Security 
 
 - 🤔 I’m looking for help with OSCP
