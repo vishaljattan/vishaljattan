@@ -5,7 +5,7 @@
 My self **Vishal Jattan** i am currently studying in b.tech computer science at [Punjabi University](https://punjabiuniversity.ac.in/). 
 
 
-- 🔭 I’m currently working on my [website](https://vishaljattan.github.io)
+- 🔭 I’m currently working on my [website](https://vishaljattan.github.io/p/)
                                                           
 - 🌱 I’m currently learning Cyber Security 
 
