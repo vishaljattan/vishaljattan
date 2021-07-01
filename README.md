@@ -16,9 +16,9 @@ My self **Vishal Jattan** i am currently studying in b.tech computer science at 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishaljattan&show_icons=true&theme=radical&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishaljattan)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/vishaljattan/vishaljattan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishaljattan&repo=vishaljattan" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/privilege-escalation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishaljattan&repo=privilege-escalation" />
 </a>
