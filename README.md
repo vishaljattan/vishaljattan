@@ -20,5 +20,5 @@ My self **Vishal Jattan** i am currently studying in b.tech computer science at 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishaljattan&repo=vishaljattan" />
 </a>
 <a href="https://github.com/privilege-escalation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishaljattan&repo=vishaljattan/privilege-escalation" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishaljattan&repo=privilege-escalation" />
 </a>
