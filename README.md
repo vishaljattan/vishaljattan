@@ -14,5 +14,5 @@ My self **Vishal Jattan** i am currently studying in b.tech computer science at 
 - 📫 How to reach me: you can contact me through [email](mailto:vishaljattan007@gmail.com) or my [linkedin](https://www.linkedin.com/in/vishal-jattan-111210211) or [instagram](https://instagram.com/_vishal_jatan_/) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishaljattan&show_icons=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishaljattan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vishaljattan&repo=vishaljattan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishaljattan&theme=radical)](https://github.com/vishaljattan/vishaljattan)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vishaljattan&repo=vishaljattan&theme=radical)](https://github.com/vishaljattan/vishaljattan)
