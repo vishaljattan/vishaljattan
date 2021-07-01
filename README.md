@@ -15,3 +15,6 @@ My self **Vishal Jattan** i am currently studying in b.tech computer science at 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishaljattan)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishaljattan&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishaljattan&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishaljattan&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishaljattan&show_icons=true&theme=radical)
